@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.build/
+.dist/
+.eggs/
+*.egg-info/
+
+# Virtual env
+.venv/
+
+# Editor/OS
+.DS_Store
+.idea/
+.vscode/
+
+# Byte-compiled
+*.cpython-*
+
+# Build artifacts
+/build/
+/dist/
+*.whl
+
+# Local
+.env
